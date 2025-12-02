@@ -7,6 +7,7 @@ It includes fixes such as:
 - Pull requests from the main page <br />
 
 Also includes [optional speed-o-meter](https://www.teamfortress.tv/61625/speedometer-in-any-hud)
+
 THIS HUD WAS TESTED IN 1366x768
 
 # INSTALLATION
