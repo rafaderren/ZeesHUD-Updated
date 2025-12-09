@@ -368,8 +368,8 @@
 			{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"MultiQueuesManageButton"
-				"xpos"			"rs1-6"
-				"ypos"			"15"
+				"xpos"			"rs1-10"
+				"ypos"			"8"
 				"zpos"			"10"
 				"wide"			"14"
 				"tall"			"14"

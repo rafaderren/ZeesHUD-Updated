@@ -438,7 +438,7 @@
 		"TextFont"				"HudFontSmallest"
 		"TeamBlue"				"ZeesBlue"
 		"TeamRed"				"ZeesRed"
-		"IconColor"				"ZeesRed"
+		"IconColor"				"ZeesWhite"
 		"LocalPlayerColor"		"65 65 65 255"
 		"BaseBackgroundColor"	"TransparentBlack"
 		"LocalBackgroundColor"	"ZeesWhite"
