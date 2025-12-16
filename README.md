@@ -9,6 +9,8 @@ It includes fixes such as:
 
 Also includes [optional speed-o-meter](https://www.teamfortress.tv/61625/speedometer-in-any-hud)
 
+I'm not a hud developer I'm just doing this because I love this hud :)
+
 THIS HUD WAS TESTED IN 1366x768
 
 # INSTALLATION
