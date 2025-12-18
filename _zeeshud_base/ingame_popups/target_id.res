@@ -85,7 +85,7 @@
 		"ControlName"		"Label"
 		"fieldName"			"TargetDataLabel"
 		"font"				"FUTURA_BOLD_8"
-		"xpos"				"0"
+		"xpos"				"1"
 		"ypos"				"15"
 		"zpos"				"6"
 		"wide"				"300"
