@@ -1,5 +1,5 @@
 # ZeesHUD Updated
-The (in)famous TF2 HUD that looks like Persona 5's UI made by [Zeesastrous](https://github.com/Zeesastrous) and updated by rafaderren.
+The (in)famous TF2 HUD that looks like Persona 5's UI updated by rafaderren.
 
 This version aims to fix issues that ZeesHUD have and add new features (when i feel like it)
 
