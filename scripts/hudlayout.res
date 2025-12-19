@@ -3,7 +3,7 @@
 #base "../#customizations/transparent_viewmodel.res"
 
 //vanilla captions
-#base "../#customizations/addons/_enabled/vanilla_captions/layout.res"
+#base "../#customizations/addons/_enabled/vanilla_edited_captions/layout.res"
 
 //centered metal
 #base "../#customizations/addons/_enabled/metal_centered/layout.res"
