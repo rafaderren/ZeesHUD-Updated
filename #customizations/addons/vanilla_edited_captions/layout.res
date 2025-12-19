@@ -5,13 +5,12 @@
 		"fieldName" "HudCloseCaption"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"
-		"ypos"		"12"
-		"wide"		"500"
-		"tall"		"136"	[$WIN32]
-		"tall"		"176"	[$X360]
+		"xpos"		"10"
+		"ypos"		"120"
+		"wide"		"300"
+		"tall"		"136"
 
-		"BgAlpha"	"0"
+		"BgAlpha"	"30"
 
 		"GrowTime"		"0.25"
 		"ItemHiddenTime"	"0.2"
