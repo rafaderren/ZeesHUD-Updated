@@ -6,7 +6,7 @@ This version aims to fix issues that ZeesHUD have and add new features (when i f
 Also includes [optional speed-o-meter](https://www.teamfortress.tv/61625/speedometer-in-any-hud)
 
 # Installation
-- Click **Code** *(that big green button above the list of files)* and click **Download ZIP**
+- **Download from recent releases to get stable versions** or download from the green code button to get beta versions
 - Drag and drop the folder **ZeesHUD-Updated-main** in **team fortress 2/tf/custom/** or use [Cueki's Preloader](https://github.com/cueki/casual-pre-loader)
 
 I'm not a hud developer I'm just doing this because I love this hud :)
