@@ -4,8 +4,8 @@
 {
 	"HudItemEffectMeter"
 	{
-		"ypos"					"r107"
-		"ypos_minmode"			"r107"
+		"ypos"					"r120"
+		"ypos_minmode"			"r120"
 
 	}
 	"ItemEffectMeterBarMask"
