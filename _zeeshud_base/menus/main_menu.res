@@ -1105,6 +1105,54 @@
 		"visible"		"0"
 	}
 
+	"HudName"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"HudName"
+		"xpos"			"650"
+		"ypos"			"r72"
+		"zpos"			"1"
+		"wide"			"200"
+		"tall"			"10"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"ZeesHUD Updated v1.2"
+		"font"			"FUTURA_BOLD_16"
+		"textAlignment"	"east"
+		"textinsetx"	"0"
+		"use_proportional_insets" "1"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"1"
+		"paintbackground""0"
+		"sound_depressed"	""
+		"sound_released"	"UI/zeesastrous_jingle.wav"
+
+		"defaultFgColor_override" "255 255 255 255"
+		"armedFgColor_override" "ZeesMain"
+		"depressedFgColor_override" "72 255 255 255"
+
+		"image_drawcolor"	"255 255 255 255"
+		"image_armedcolor"	"ZeesMain"
+
+		"SubImage"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"SubImage"
+			"xpos"			"16"
+			"ypos"			"6"
+			"zpos"			"1"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"scaleImage"	"1"
+			"image"			"glyph_quit"
+		}
+	}
 		
 	"IconAnchor"
 	{
