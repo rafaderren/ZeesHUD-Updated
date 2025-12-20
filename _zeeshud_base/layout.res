@@ -774,7 +774,7 @@
 		"enabled"			"1"
 		"xpos"				"0"
 		"ypos"				"r155"
-		"zpos"				"1"
+		"zpos"				"100"
 		"wide"				"f0"
 		"tall"				"156"
 	}
