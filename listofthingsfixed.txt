@@ -1,0 +1,25 @@
+26/11/2025 to 20/12/2025
+-fixed payloads in pl mode not showing players on the payload
+-fixed floating health on robots and teammates
+-fixed spectator killstreak icon overlapping the killstreak counter
+-fixed healed target ammo icon overlapping the ammo counter
+-fixed casual medals in scoreboard
+-fixed centered meters addon overlapping with pd ui (vsh if its not map divided anymore)
+-fixed mode selection texts being cut off
+-fixed typo in classic style PlayerStatus_RuneSupernova and killcam itemmodelpanel
+-fixed topbar weird text position
+-fixed killfeed always forced red tint if the weapon is not a crit kill on australium weapons
+-fixed missing kill icons
+-fixed badge selection being put way too under
+-fixed spectator lists on the mvm scoreboard
+-fixed the custom intro
+-added pull requests from the github page
+
+-changed winpanel zpos from 1 to 100
+-moved pd score to fit with the hud
+
+-added a custom loading text when you boot up the game
+-added a speed o meter on the right of the crosshair
+-added a new closed caption style for better readability
+-added selected player name in scoreboard
+-added 2007 class selection lighting (not sure if it works i dont have any comparison)
