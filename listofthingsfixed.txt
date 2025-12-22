@@ -1,4 +1,4 @@
-26/11/2025 to 20/12/2025
+26/11/2025 to 23/12/2025
 -fixed payloads in pl mode not showing players on the payload
 -fixed floating health on robots and teammates
 -fixed spectator killstreak icon overlapping the killstreak counter
