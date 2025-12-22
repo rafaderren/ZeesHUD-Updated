@@ -315,7 +315,7 @@
 
 		if_mvm
 		{
-			"xpos" 		"c-120"
+			"xpos" 		"c-110"
 			"ypos"		"r65"
 		}
 

@@ -13,6 +13,7 @@
 -fixed badge selection being put way too under
 -fixed spectator lists on the mvm scoreboard
 -fixed the custom intro
+-fixed mvm bomb indicator and upgrades
 -added pull requests from the github page
 
 -changed winpanel zpos from 1 to 100
