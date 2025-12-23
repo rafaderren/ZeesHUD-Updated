@@ -19,6 +19,7 @@
 -fixed sudden death label being cut off
 -added pull requests from the github page
 
+-updated floating health to support big health numbers
 -updated training selection background
 -changed winpanel zpos from 1 to 100
 -moved pd score to fit with the hud
