@@ -1,4 +1,4 @@
-26/11/2025 to 23/12/2025
+26/11/2025 to 24/12/2025
 -fixed payloads in pl mode not showing players on the payload
 -fixed floating health on robots and teammates
 -fixed spectator killstreak icon overlapping the killstreak counter
@@ -19,7 +19,7 @@
 -fixed sudden death label being cut off
 -added pull requests from the github page
 
--updated floating health to support big health numbers
+-u̶̶̶p̶̶̶d̶̶̶a̶̶̶t̶̶̶e̶̶̶d̶̶̶ ̶f̶̶̶l̶̶̶o̶̶̶a̶̶̶t̶̶̶i̶̶̶n̶̶̶g̶̶̶ ̶h̶̶̶e̶̶̶a̶̶̶l̶̶̶t̶̶̶h̶̶̶ ̶t̶̶̶o̶̶̶ ̶s̶̶̶u̶̶̶p̶̶̶p̶̶̶o̶̶̶r̶̶̶t̶̶̶ ̶b̶̶̶i̶̶̶g̶̶̶ ̶h̶̶̶e̶̶̶a̶̶̶l̶̶̶t̶̶̶h̶̶̶ ̶n̶̶̶u̶̶̶m̶̶̶b̶̶̶e̶̶̶r̶̶̶s̶̶̶
 -updated training selection background
 -changed winpanel zpos from 1 to 100
 -moved pd score to fit with the hud

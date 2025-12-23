@@ -62,8 +62,9 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"FUTURA_BOLD_16"
+		"font"			"FUTURA_BOLD_24"
 		"fgcolor"		"Health Text"
+
 	}
 
 	"GuiPlayerHealthShadow"
@@ -79,7 +80,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"FUTURA_BOLD_16"
+		"font"			"FUTURA_BOLD_24"
 		"fgcolor"		"Health Text Shadow"
 
 		"pin_to_sibling"		"GuiPlayerHealth"
