@@ -14,8 +14,11 @@
 -fixed spectator lists on the mvm scoreboard
 -fixed the custom intro
 -fixed mvm bomb indicator and upgrades
+-fixed party chat textbox positioning and width (party chat box is hardcoded)
+-fixed mvm matchmaking missing a background
 -added pull requests from the github page
 
+-updated training selection background
 -changed winpanel zpos from 1 to 100
 -moved pd score to fit with the hud
 
