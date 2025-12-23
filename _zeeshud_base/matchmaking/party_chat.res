@@ -5,8 +5,8 @@
 		"fieldName"				"partychat"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"2"
-		"ypos"					"20"
+		"xpos"					"0"
+		"ypos"					"0"
 		"zpos"					"1001"
 		"wide"					"200"
 		"tall"					"200"
@@ -26,7 +26,7 @@
 
 		"collapsed_height"		"0"
 		"expanded_height"		"200"
-		"resize_time"	"0.1"
+		"resize_time"	"0.3"
 		"invalidate_parent_on_resize"	"0"
 	}
 
@@ -85,10 +85,10 @@
 	{
 		// "ControlName"	"TextEntry"
 		"fieldName"		"chatentry"
-		"xpos"					"10"
-		"ypos"					"rs1+10"
+		"xpos"					"4"
+		"ypos"					"rs1+16"
 		"zpos"			"1"
-		"wide"			"f2"
+		"wide"			"f10"
 		"tall"			"13"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
