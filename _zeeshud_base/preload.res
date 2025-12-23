@@ -28,6 +28,16 @@
 		"image"			"../sprites/obj_icons/icon_obj_blu_locked"
 	}
 
+	"cpiconblumannhattanlock"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"cpiconblumannhattanlock"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_blu_mannhattan_locked"
+	}
+
 	"cpiconredunlock"
 	{
 		"ControlName"	"ImagePanel"
