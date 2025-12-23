@@ -2147,21 +2147,6 @@
 			"angles_z"		"0"
 		}
 	}
-	"ChatPin"
-	{
-		"ControlName"    "Panel"
-		"xpos"			"0"
-		"ypos"			"37"
-	}
-
-	"partychat"
-	{
-		"pin_to_sibling"    "ChatPin"
-	}
-	
-	
-	
-	
 	
 	//==============================================================================
 	//			CUSTOM BUTTONS (SET THEM IN "customizations/menu_buttons.res")
