@@ -1,4 +1,4 @@
-#base "MatchMakingDashboardSidePanel.res"
+#base "side_panel.res"
 
 "Resource/UI/MatchMakingDashboardCasualCriteria.res"
 {
