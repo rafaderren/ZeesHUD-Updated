@@ -34,23 +34,23 @@
 		"paintbackground"		"1"
 		"border"				"QuickplayBorder"
 		
-		"GradientBgPanel"
-		{
-			"ControlName"	"ImagePanel"
-			"FieldName"		"GradientBgPanel"
-			"xpos"			"10"
-			"ypos"			"135"
-			"zpos"			"1"
-			"wide"			"430"
-			"tall"			"400"
-			"visible"		"0"
-			"tileImage"		"0"
-			"scaleImage"	"1"
-			"image"			"training/gradient"
-			"border"		"ButtonBorder"
-			"paintbackgroundtype"	"2"
-			"paintbackground"	"1"
-		}
+		// "GradientBgPanel"
+		// {
+		// 	"ControlName"	"ImagePanel"
+		// 	"FieldName"		"GradientBgPanel"
+		// 	"xpos"			"10"
+		// 	"ypos"			"135"
+		// 	"zpos"			"1"
+		// 	"wide"			"430"
+		// 	"tall"			"400"
+		// 	"visible"		"0"
+		// 	"tileImage"		"0"
+		// 	"scaleImage"	"1"
+		// 	"image"			"training/gradient"
+		// 	"border"		"ButtonBorder"
+		// 	"paintbackgroundtype"	"2"
+		// 	"paintbackground"	"1"
+		// }
 
 		"Background"
 		{
@@ -65,7 +65,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"40 37 37 255"
+			"bgcolor_override"	"DarkGrey"
 		}
 
 		"TitleLabel"
