@@ -16,6 +16,7 @@
 -fixed mvm bomb indicator and upgrades
 -fixed party chat textbox positioning and width (party chat box is hardcoded)
 -fixed mvm matchmaking missing a background
+-fixed sudden death label being cut off
 -added pull requests from the github page
 
 -updated training selection background

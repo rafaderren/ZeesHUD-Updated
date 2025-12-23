@@ -92,7 +92,7 @@
 		"xpos"				"25"
 		"ypos"				"20"
 		"zpos"				"5"
-		"wide"				"50"
+		"wide"				"100"
 		"tall"				"24"
 		"visible"			"0"
 		"enabled"			"1"
@@ -105,7 +105,7 @@
 
 		if_match
 		{
-			"xpos"			"2"
+			"xpos"			"5"
 		}
 	}
 	"SuddenDeathBG"
