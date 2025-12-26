@@ -1238,12 +1238,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ConsoleButton"
-		"xpos"		"0"
-		"ypos"		"-20"
-		"zpos"		"12"
+		"xpos"			"0"
+		"ypos"			"-20"
+		"zpos"			"12"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"0"
+		"visible"		"1"
 		
 		"label"			""
 		"command"		"engine toggleconsole"
