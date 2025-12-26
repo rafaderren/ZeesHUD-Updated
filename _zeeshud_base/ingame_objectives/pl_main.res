@@ -22,7 +22,7 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"			"LevelBar"
 		"xpos"				"cs-0.5"
-		"ypos"				"s7.5"
+		"ypos"				"s8.1"
 		"zpos"				"0"
 		"wide"				"150"
 		"tall"				"8"
@@ -34,7 +34,7 @@
 
 		"if_multiple_trains"
 		{
-			"ypos"			"s7.5"
+			"ypos"			"s7.6"
 			"zpos"			"3"
 			"tall"			"6"
 			"image"			"replay/thumbnails/payload/cart_track"
