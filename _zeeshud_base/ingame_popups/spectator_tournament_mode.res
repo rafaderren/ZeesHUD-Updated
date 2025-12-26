@@ -353,6 +353,11 @@
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"	"center"
 		"font"			"HudFontMedium"
+
+		if_mvm
+		{
+			"ypos"		"80"
+		}
 	}
 	"BuyBackLabel"
 	{
