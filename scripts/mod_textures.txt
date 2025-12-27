@@ -28,115 +28,115 @@
 
 		"plus_sign"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"+"
 		}
 		
 		"minus_sign"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"-"
 		}
 		
 		"dollar_sign"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"$"
 		}
 		
 		"health_icon"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"b"
 		}
 		
 		"timer_icon"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"e"
 		}
 		
 		"shield_kevlar_bright"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"l"
 		}
 		
 		"shield_kevlar"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"l"
 		}
 		
 		"shield_bright"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"a"
 		}
 		
 		"shield"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"a"
 		}
 		
 		"number_0"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"0"
 		}
 
 		"number_1"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"1"
 		}
 
 		"number_2"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"2"
 		}
 
 		"number_3"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"3"
 		}
 
 		"number_4"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"4"
 		}
 
 		"number_5"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"5"
 		}
 
 		"number_6"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"6"
 		}
 
 		"number_7"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"7"
 		}
 
 		"number_8"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"8"
 		}
 
 		"number_9"
 		{
-				"font"		"Icons"
+				"font"		"icons"
 				"character"	"9"
 		}
 		
