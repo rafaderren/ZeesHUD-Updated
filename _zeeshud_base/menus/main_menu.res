@@ -1119,7 +1119,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"ZeesHUD Updated BETA"
+		"labelText"		"ZeesHUD Updated BETA (linux-fix)"
 		"font"			"FUTURA_BOLD_16"
 		"textAlignment"	"east"
 		"textinsetx"	"0"
