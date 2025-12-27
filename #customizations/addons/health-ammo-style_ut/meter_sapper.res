@@ -1,14 +1,14 @@
-"Resource/UI/huditemeffectmeter_sapper.res"
+"Resource/UI/HudRocketPack.res"
 {
 	HudItemEffectMeter
 	{
 		"fieldName"			"HudItemEffectMeter"
 		"visible"			"1"
 		"enabled"			"1"
-		"xpos"				"r128"
-		"ypos"				"r120"
-		"ypos_minmode"		"r140"
-		"wide"				"128"
+		"xpos"				"c140"
+		"ypos"					"r40"
+		"ypos_minmode"			"r40"
+		"wide"				"168"
 		"tall"				"32"
 		"MeterFG"			"ZeesWhite"
 		"MeterBG"			"ZeesRed"
@@ -18,15 +18,15 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBar"
-		"xpos"			"0"
+		"xpos"			"40"
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"128"
 		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/chargebar_right"
-		"scaleImage"		"1"
+		"image"			"replay/thumbnails/chargebar_notitle"
+		"scaleImage"	"1"
 	}
 	"ItemEffectMeterBG"
 	{
@@ -47,9 +47,9 @@
 	"ItemEffectMeterLabel2"
 	{
 		"ControlName"		"CExLabel"
-		"fieldName"			"ItemEffectMeterLabel2"
-		"xpos"				"45"
-		"ypos"				"8"
+		"fieldName"			"ItemEffectMeterLabel"
+		"xpos"				"-38"
+		"ypos"				"17"
 		"zpos"				"6"
 		"wide"				"80"
 		"tall"				"16"
@@ -58,11 +58,12 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"Sapper"
+		"labelText"			"SAPPER"
 		"textAlignment"		"east"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"font"				"GAMERIA_10"
+		"fgcolor"			"ZeesWhite"
+		"font"				"FUTURA_BOLD_12"
 	}
 	
 
@@ -71,10 +72,10 @@
 		"ControlName"		"ContinuousProgressBar"
 		"fieldName"			"ItemEffectMeter"
 		"font"				"Default"
-		"xpos"				"6"
+		"xpos"				"46"
 		"ypos"				"20"
 		"zpos"				"2"
-		"wide"				"124"
+		"wide"				"116"
 		"tall"				"10"
 		"autoResize"		"0"
 		"pinCorner"			"0"
@@ -85,5 +86,21 @@
 		"brighttext"		"0"
 		"MeterFG"			"ZeesWhite"
 		"MeterBG"			"ZeesRed"
+	}
+	
+	"ItemEffectMeterBG2"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"ItemEffectMeterBG2"
+		"xpos"				"46"
+		"ypos"				"20"
+		"zpos"				"0"
+		"wide"				"116"
+		"tall"				"10"
+		"autoResize"		"0"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"bgcolor_override"	"ZeesDarkBlue"
 	}
 }
