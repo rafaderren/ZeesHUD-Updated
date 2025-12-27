@@ -1,12 +1,7 @@
-# ZeesHUD Updated
-The (in)famous TF2 HUD that looks like Persona 5's UI updated by rafaderren.
+# ZeesHUD Updated Linux Fix
 
-This version aims to fix issues that ZeesHUD have and add new features (when i feel like it)
+This is a branch for linux users while [valve still haven't fixed custom fonts on custom huds](https://github.com/ValveSoftware/Source-1-Games/issues/7020)
 
-Also includes [optional speed-o-meter](https://www.teamfortress.tv/61625/speedometer-in-any-hud)
+Thank you:
 
-# Installation
-- **Download from recent releases to get stable versions** or download from the green code button to get beta versions
-- Drag and drop the folder **ZeesHUD-Updated-main** in **team fortress 2/tf/custom/** or use [Cueki's Preloader](https://github.com/cueki/casual-pre-loader)
-
-I'm not a hud developer I'm just doing this because I love this hud :)
+- [Borm](https://steamcommunity.com/id/bormbeam)
