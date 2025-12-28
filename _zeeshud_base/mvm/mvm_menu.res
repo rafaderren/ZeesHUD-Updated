@@ -611,13 +611,13 @@
 			"fieldName"		"TourLevelLabel"
 			"font"			"HudFontMediumSmallBold"
 			"labelText"		"%tour_level%"
-			"textAlignment"	"south"
-			"xpos"			"357"
-			"ypos"			"0"
+			"textAlignment"	"center"
+			"xpos"			"222"
+			"ypos"			"4"
 			"zpos"			"0"
-			"wide"			"30"
+			"wide"			"300"
 			"tall"			"26"
-			"fgcolor_override"	"0 0 0 255"
+			"fgcolor_override"	"255 255 255 255"
 		}
 
 		"ChallengeListGroupBox"
