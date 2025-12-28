@@ -21,13 +21,16 @@
 -fixed quickswitch ui being cut off on the end
 -fixed reinforcement time on mvm being overlapped with remaining bots
 -fixed payload line not being centered
--added pull requests from the github page
+-fixed mvm spy sapper using canteen instead of meters
+-fixed high tour numbers being hidden in the mann up queue section
 
 -u̶̶̶p̶̶̶d̶̶̶a̶̶̶t̶̶̶e̶̶̶d̶̶̶ ̶f̶̶̶l̶̶̶o̶̶̶a̶̶̶t̶̶̶i̶̶̶n̶̶̶g̶̶̶ ̶h̶̶̶e̶̶̶a̶̶̶l̶̶̶t̶̶̶h̶̶̶ ̶t̶̶̶o̶̶̶ ̶s̶̶̶u̶̶̶p̶̶̶p̶̶̶o̶̶̶r̶̶̶t̶̶̶ ̶b̶̶̶i̶̶̶g̶̶̶ ̶h̶̶̶e̶̶̶a̶̶̶l̶̶̶t̶̶̶h̶̶̶ ̶n̶̶̶u̶̶̶m̶̶̶b̶̶̶e̶̶̶r̶̶̶s̶̶̶
 -updated training selection background
 -changed winpanel zpos from 1 to 100
 -moved pd score to fit with the hud
 
+-added pull requests from the github page
+-added back map info instead of just having the maps image
 -added small floating health font addon to support big health numbers
 -added a custom loading text when you boot up the game
 -added a speed o meter on the right of the crosshair
