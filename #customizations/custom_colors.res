@@ -30,5 +30,12 @@
 		"Uber Centered Shadow"	"0 0 0 255"
 		"Indicator Low"	"255 0 90 255"
 		"Indicator Ovh"	"0 255 214 255"
+
+		//---------------------------------------------
+		// Ubercharge
+		"Uber Bar Color"			"255 255 255 255"
+		"Solid Color Uber"			"255 0 90 255"
+		"Flashing Uber Color1"		"255 0 90 255"
+		"Flashing Uber Color2"		"255 0 0 255"
 	}
 }
