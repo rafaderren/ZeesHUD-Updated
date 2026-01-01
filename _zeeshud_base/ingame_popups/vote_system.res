@@ -560,7 +560,7 @@
 		"issue_font"				"ItemFontNameSmall"
 		"issue_fgcolor"				"ZeesWhite"
 		"issue_fgcolor_disabled"	"ZeesGray"
-		"parameter_width"			"200"
+		"parameter_width"			"370"
 
 		"TitleLabel"
 		{
