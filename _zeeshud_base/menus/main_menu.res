@@ -53,11 +53,11 @@
 				"paintbackground"	"0"
 
 				"defaultFgColor_override"	"255 255 255 255"
-				"armedFgColor_override"		"255 0 90 255"
+				"armedFgColor_override"		"ZeesMain"
 				"depressedFgColor_override" "255 255 255 255"
 
 				"image_drawcolor"	"255 255 255 255"
-				"image_armedcolor"	"255 0 90 255"
+				"image_armedcolor"	"ZeesMain"
 				"image_depressedcolor" "255 255 255 255"
 
 				"SubImage"
@@ -132,7 +132,7 @@
 		"tall"			"300"
 		"visible"		"0"
 		"bgcolor_override"		"Transparent"
-		"noitem_textcolor"		"255 0 90 255"
+		"noitem_textcolor"		"ZeesMain"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 
@@ -157,7 +157,7 @@
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"255 0 90 255"
+			"fgcolor"		"ZeesMain"
 			"centerwrap"	"1"
 		}
 	}
@@ -1032,7 +1032,7 @@
 			"depressedFgColor_override"	"72 255 255 255"
 
 			"image_drawcolor"			"255 255 255 255"
-			"image_armedcolor"			"255 0 90 255"
+			"image_armedcolor"			"ZeesMain"
 
 			"SubImage"
 			{
@@ -1119,7 +1119,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"ZeesHUD Updated BETA (linux-fix)"
+		"labelText"		"ZeesHUD Updated BETA"
 		"font"			"FUTURA_BOLD_16"
 		"textAlignment"	"east"
 		"textinsetx"	"0"
