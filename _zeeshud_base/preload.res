@@ -8,6 +8,306 @@
 	//
 	//=====================================
 	
+	"iconobj1neutral"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj1neutral"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_1_neutral"
+	}
+	
+	"iconobj2neutral"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj2neutral"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_2_neutral"
+	}
+	
+	"iconobj3neutral"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj3neutral"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_3_neutral"
+	}
+	
+	"iconobj4neutral"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj4neutral"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_4_neutral"
+	}
+	
+	"iconobj5neutral"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj5neutral"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_5_neutral"
+	}
+	
+	"iconobj1neutrallocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj1neutrallocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_1_neutral_locked"
+	}
+	
+	"iconobj2neutrallocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj2neutrallocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_2_neutral_locked"
+	}
+	
+	"iconobj3neutrallocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj3neutrallocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_3_neutral_locked"
+	}
+	
+	"iconobj4neutrallocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj4neutrallocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_4_neutral_locked"
+	}
+	
+	"iconobj5neutrallocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj5neutrallocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_5_neutral_locked"
+	}
+	
+	"iconobj1blu"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj1blu"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_1_blu"
+	}
+	
+	"iconobj2blu"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj2blu"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_2_blu"
+	}
+	
+	"iconobj3blu"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj3blu"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_3_blu"
+	}
+	
+	"iconobj4blu"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj4blu"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_4_blu"
+	}
+	
+	"iconobj5blu"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj5blu"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_5_blu"
+	}
+	
+	"iconobj1blulocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj1blulocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_1_blu_locked"
+	}
+	
+	"iconobj2blulocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj2blulocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_2_blu_locked"
+	}
+	
+	"iconobj3blulocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj3blulocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_3_blu_locked"
+	}
+	
+	"iconobj4blulocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj4blulocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_4_blu_locked"
+	}
+	
+	"iconobj5blulocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj5blulocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_5_blu_locked"
+	}
+	
+	"iconobj1red"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj1red"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_1_red"
+	}
+	
+	"iconobj2red"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj2red"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_2_red"
+	}
+	
+	"iconobj3red"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj3red"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_3_red"
+	}
+	
+	"iconobj4red"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj4red"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_4_red"
+	}
+	
+	"iconobj5red"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj5red"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_5_red"
+	}
+	
+	"iconobj1redlocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj1redlocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_1_red_locked"
+	}
+	
+	"iconobj2redlocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj2redlocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_2_red_locked"
+	}
+	
+	"iconobj3redlocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj3redlocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_3_red_locked"
+	}
+	
+	"iconobj4redlocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj4redlocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_4_red_locked"
+	}
+	
+	"iconobj5redlocked"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobj5redlocked"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_5_red_locked"
+	}
+	
 	"cpiconbluunlock"
 	{
 		"ControlName"	"ImagePanel"
@@ -163,6 +463,15 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_cap_mask"
+	}
+	"iconobjskullneutral"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"iconobjskullneutral"
+		"xpos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_skull_neutral"
 	}
 	
 	//=====================================
