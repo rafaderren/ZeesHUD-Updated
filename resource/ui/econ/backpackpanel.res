@@ -244,7 +244,7 @@
 		"textAlignment"		"east"
 		"xpos"				"c-60"
 		"ypos"				"15"
-		"zpos"				"1"
+		"zpos"				"10"
 		"wide"				"120"
 		"tall"				"20"
 		"autoResize"		"0"
