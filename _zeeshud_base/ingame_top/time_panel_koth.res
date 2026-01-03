@@ -38,7 +38,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"TimePanelValue"
-			"font"				"SMB2_8"
+			"font"				"FUTURA_BOLD_24"
 			"fgcolor"			"ZeesWhite"
 			"xpos"				"25"
 			"ypos"				"0"
@@ -58,6 +58,52 @@
 				"tall"			"10"
 				"wide"			"35"
 				"font"			"FUTURA_BOLD_12"
+			}
+		}
+		"Background"
+		{
+			"ControlName"		"EditablePanel"
+			"fieldName"			"ItemEffectMeterBG"
+			"xpos"				"25"
+			"ypos"				"0"
+			"zpos"				"0"
+			"wide"				"50"
+			"tall"				"25"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
+			"bgcolor_override"	"ZeesBlue"
+
+			if_match
+			{
+				"xpos"				"9999"
+				"ypos"				"9999"
+				"visible"			"0"
+				"enabled"			"0"
+			}
+		}
+		"Background2"
+		{
+			"ControlName"		"EditablePanel"
+			"fieldName"			"ItemEffectMeterBG"
+			"xpos"				"23"
+			"ypos"				"0"
+			"zpos"				"-1"
+			"wide"				"53"
+			"tall"				"28"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
+			"bgcolor_override"	"ZeesBlack"
+
+			if_match
+			{
+				"xpos"				"9999"
+				"ypos"				"9999"
+				"visible"			"0"
+				"enabled"			"0"
 			}
 		}
 	}
@@ -92,7 +138,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"TimePanelValue"
-			"font"				"FUTURA_BOLD_12"
+			"font"				"FUTURA_BOLD_24"
 			"fgcolor"			"ZeesWhite"
 			"xpos"				"26"
 			"ypos"				"0"
@@ -114,6 +160,52 @@
 				"font"			"FUTURA_BOLD_12"
 			}
 		}
+		"Background"
+		{
+			"ControlName"		"EditablePanel"
+			"fieldName"			"ItemEffectMeterBG"
+			"xpos"				"25"
+			"ypos"				"0"
+			"zpos"				"0"
+			"wide"				"50"
+			"tall"				"25"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
+			"bgcolor_override"	"ZeesRed"
+
+			if_match
+			{
+				"xpos"				"9999"
+				"ypos"				"9999"
+				"visible"			"0"
+				"enabled"			"0"
+			}
+		}
+		"Background2"
+		{
+			"ControlName"		"EditablePanel"
+			"fieldName"			"ItemEffectMeterBG"
+			"xpos"				"25"
+			"ypos"				"0"
+			"zpos"				"-1"
+			"wide"				"53"
+			"tall"				"28"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
+			"bgcolor_override"	"ZeesBlack"
+
+			if_match
+			{
+				"xpos"				"9999"
+				"ypos"				"9999"
+				"visible"			"0"
+				"enabled"			"0"
+			}
+		}
 	}
 
 	"ActiveTimerBG"
@@ -122,7 +214,7 @@
 		"fieldName"			"ActiveTimerBG"
 		"xpos"				"15"
 		"ypos"				"25"
-		"zpos"				"10"
+		"zpos"				"11"
 		"wide"				"50"
 		"tall"				"3"
 		"visible"			"0"
