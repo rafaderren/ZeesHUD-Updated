@@ -356,7 +356,7 @@
 
 		if_mvm
 		{
-			"ypos"		"80"
+			"ypos"		"340"
 		}
 	}
 	"BuyBackLabel"
